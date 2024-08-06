@@ -11,9 +11,8 @@ This project involves creating a data visualization dashboard that provides insi
 
 ## Deplolyed App
 
-    FrontEnd: https://black-coffer-assignment-gilt.vercel.app/
-    
-    Backend:https://blackcoffer-backend-o2nw.onrender.com/api/v1/data
+FrontEnd: https://black-coffer-assignment-gilt.vercel.app/
+Backend:https://blackcoffer-backend-o2nw.onrender.com/api/v1/data
 
 
 ## Technologies Used
